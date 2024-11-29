@@ -71,9 +71,9 @@ On my GitHub, you’ll discover:
 
 -   💼 [LinkedIn](https://www.linkedin.com/in/austin-barthel/)
 -   🧸 [Trailblazer](https://www.salesforce.com/trailblazer/profile)
-<!-- -   📝 [Portfolio](https://your-portfolio-link.com) -->
 -   📨 [Email](mailto:austinbarthel@gmail.com)
-<!-- -   🐦 [Twitter](https://twitter.com/your-twitter-handle) -->
+    <!-- -   📝 [Portfolio](https://your-portfolio-link.com) -->
+    <!-- -   🐦 [Twitter](https://twitter.com/your-twitter-handle) -->
 
 ---
 
